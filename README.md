@@ -1,5 +1,1 @@
-How to reach me:
-
-Instagram: v1per_zero
-
-Reddit: Viper_Zerofy
+[![V1pers's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1perZerofy)](https://github.com/V1perZerofy/github-readme-stats)
