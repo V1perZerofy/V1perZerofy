@@ -18,10 +18,10 @@ Here's a quick overview of some of the projects I've been working on:
 - [Advent-of-Code](https://github.com/V1perZerofy/Advent-of-Code): Some of my solutions for various Advent of Code challenges.
 - [2DPlatformer](https://github.com/V1perZerofy/2DPlatformer): The start of a small 2D Platformer. Helped me to learn some Lua.
 
+(Note: My work for the BWINF competition is currently not available for public viewing due to competition guidelines. Also my Substitutionplan will be uploaded as soon as it's completly anonymized)
+
 ### GitHub Profile Configuration
 - [V1perZerofy](https://github.com/V1perZerofy/V1perZerofy): Config files for personalizing my GitHub profile.
-
-(Note: My work for the BWINF competition is currently not available for public viewing due to competition guidelines.)
 
 ## Skills
 
