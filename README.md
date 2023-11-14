@@ -15,8 +15,8 @@ Hi! I'm Niels, a programmer based in Bonn, Germany. Welcome to my GitHub page wh
 Here's a quick overview of some of the projects I've been working on:
 
 ### Advent of Code Solutions
-- [Advent-Of-Code-2021](https://github.com/V1perZerofy/Advent-Of-Code-2021): My solutions for the 2021 Advent of Code, showcasing my problem-solving skills and Python expertise.
-- [Advent-of-Code](https://github.com/V1perZerofy/Advent-of-Code): A collection of my solutions for various Advent of Code challenges.
+- [Advent-of-Code](https://github.com/V1perZerofy/Advent-of-Code): Some of my solutions for various Advent of Code challenges.
+- [2DPlatformer](https://github.com/V1perZerofy/2DPlatformer): The start of a small 2D Platformer. Helped me to learn some Lua.
 
 ### GitHub Profile Configuration
 - [V1perZerofy](https://github.com/V1perZerofy/V1perZerofy): Config files for personalizing my GitHub profile.
