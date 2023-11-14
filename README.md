@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Welcome to my GitHub Profile!
 
 Hi! I'm Niels, a programmer based in Bonn, Germany. Welcome to my GitHub page where I showcase my projects and coding journey.
 
