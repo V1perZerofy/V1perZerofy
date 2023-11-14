@@ -1,4 +1,4 @@
-# Welcome to V1perZerofy's GitHub Profile!
+# Welcome to My GitHub Profile!
 
 Hi! I'm Niels, a programmer based in Bonn, Germany. Welcome to my GitHub page where I showcase my projects and coding journey.
 
