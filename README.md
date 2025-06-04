@@ -28,3 +28,4 @@ Here's a quick overview of some of the projects I've been working on:
 - Languages: Python, Java, Lua, learning C#, SQL
 - Tools: Git, GitHub
 - Areas of interest: Algorithmic Challenges, Automation Scripts, Competitive Programming, Game Development
+- https://www.codewars.com/users/V1perZerofy/badges/large
