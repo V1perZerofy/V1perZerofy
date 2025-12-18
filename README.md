@@ -4,11 +4,11 @@ Hi! I'm Niels, a programmer based in Bonn, Germany. Welcome to my GitHub page wh
 
 ## About Me
 
-- 🌱 Currently learning: Advanced Python techniques, Data Structures, and Algorithms.
-- 👯 Looking to collaborate on Python projects, particularly those involving algorithmic challenges.
-- 📫 How to reach me: v1per_zero on Discord
-- ⚡ Current Competitions: I am an active participant in the BWINF (Bundeswettbewerb Informatik), though my solutions for the competition are not yet published here.
-- 🤔 Exploring: New challenges in the field of computer science and software development.
+-  Currently learning: Advanced Python techniques, Data Structures, and Algorithms.
+-  Looking to collaborate on Python projects, particularly those involving algorithmic challenges.
+-  How to reach me: v1per_zero on Discord
+-  Current Competitions: I am an active participant in the BWINF (Bundeswettbewerb Informatik), though my solutions for the competition are not yet published here.
+-  Exploring: New challenges in the field of computer science and software development.
 
 ## My Projects
 
