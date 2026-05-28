@@ -22,7 +22,7 @@ Here's a quick overview of some of the projects I've been working on:
 
 ## Skills
 
-- Languages: Python, Java, Lua, learning C#, SQL
+- Languages: Python, Java, Lua, SQL, learning C#, JS
 - Tools: Git, GitHub
 - Areas of interest: Algorithmic Challenges, Automation Scripts, Competitive Programming, Game Development
 
